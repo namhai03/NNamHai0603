@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nguyễn Nam Hải
 - 👀 Recently, I joined to the developer community
-- 🌱I'm currently learning something about Data Analyst, Data Mining, Big Data ...
+- 🌱I'm currently learning something about Data Analyst, Data Mining, ...
 - 📫 Contact me via fb:fb.com/namhai03
 
 <!---
