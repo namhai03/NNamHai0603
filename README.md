@@ -19,7 +19,7 @@ Phenikaa University - VietNam &#127483;&#127475;</h3>
 
 - 🌱 Here is link to my top repositories: <a href="https://github.com/namhai03" target="blank">GitHub Link</a>
 
-- 💬 My Linkedin profile: <a href="https://www.linkedin.com/in/namhai0603/" target="blank">namhai0603</a>
+- 💬 My Linkedin profile: <a href="https://www.linkedin.com/in/namhai0603/" target="blank">Linkedin Profile</a>
 
 - 📫 How to reach me **namhai.632003@gmail.com**
 
@@ -29,17 +29,17 @@ Phenikaa University - VietNam &#127483;&#127475;</h3>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/haingocng/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/namhai0603/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/haingocnguyen">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/namhai03">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a</a>
 	   <a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/_nghngc_/">
+        <a style="margin-left: 10px;" target="_blank" href="">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+		<a style="margin-left: 10px;" target="_blank" href="">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC0u9T7IwQTjWjydqQYKgEqA">
+		<a style="margin-left: 10px;" target="_blank" href="">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 		<a</a>
       </div>
