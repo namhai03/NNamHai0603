@@ -17,7 +17,7 @@ Phenikaa University - VietNam &#127483;&#127475;</h3>
 
 - 🤝 I am diligently working on my school projects with the goal of securing an internship in 2025.
 
-- 🌱 Here is link to my top repositories: <a href="https://github.com/haingocnguyen" target="blank">GitHub Link</a>
+- 🌱 Here is link to my top repositories: <a href="https://github.com/namhai03" target="blank">GitHub Link</a>
 
 - 💬 My Linkedin profile: <a href="https://www.linkedin.com/in/namhai0603/" target="blank">namhai0603</a>
 
